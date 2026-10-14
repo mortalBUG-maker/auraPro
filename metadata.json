@@ -1,0 +1,6 @@
+{
+  "name": "AURA Pro — Immersive Spatial Audio",
+  "description": "Experiência scrollytelling cinematográfica de áudio espacial computacional em titânio aeroespacial e acústica neural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
